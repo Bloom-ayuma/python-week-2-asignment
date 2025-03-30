@@ -29,3 +29,4 @@ print("Index of 30:", index_30)
 
 # Print the final list
 print("Final list:", my_list)
+
